@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# vitepress
+docs/.vitepress/dist
+docs/.vitepress/cache
+
+# Mac OS files
+.DS_Store
